@@ -398,3 +398,36 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/real-world-wireless-communication-dataset/5G-NR/32274CF-dell-latitude-D20211201T191100M024240.data
+/real-world-wireless-communication-dataset/5G-NR/32274CF-dell-latitude-D20211201T191100M024240.json
+/real-world-wireless-communication-dataset/5G-NR/32274CF-dell-latitude-D20211201T191200M056171.data
+/real-world-wireless-communication-dataset/5G-NR/32274CF-dell-latitude-D20211201T191200M056171.json
+/real-world-wireless-communication-dataset/5G-NR/32274CF-dell-latitude-D20211201T191300M048183.data
+/real-world-wireless-communication-dataset/5G-NR/32274CF-dell-latitude-D20211201T191300M048183.json
+/real-world-wireless-communication-dataset/LTE/30 mbps/32274CF-dell-latitude-D20211125T150800M004475.data
+/real-world-wireless-communication-dataset/LTE/30 mbps/32274CF-dell-latitude-D20211125T150800M004475.json
+/real-world-wireless-communication-dataset/LTE/30 mbps/32274CF-dell-latitude-D20211125T150900M059227.data
+/real-world-wireless-communication-dataset/LTE/30 mbps/32274CF-dell-latitude-D20211125T150900M059227.json
+/real-world-wireless-communication-dataset/LTE/30 mbps/32274CF-dell-latitude-D20211125T151000M056507.data
+/real-world-wireless-communication-dataset/LTE/30 mbps/32274CF-dell-latitude-D20211125T151000M056507.json
+/real-world-wireless-communication-dataset/LTE/50 mbps/32274CF-dell-latitude-D20211125T152000M052549.data
+/real-world-wireless-communication-dataset/LTE/50 mbps/32274CF-dell-latitude-D20211125T152000M052549.json
+/real-world-wireless-communication-dataset/LTE/50 mbps/32274CF-dell-latitude-D20211125T152100M004125.data
+/real-world-wireless-communication-dataset/LTE/50 mbps/32274CF-dell-latitude-D20211125T152100M004125.json
+/real-world-wireless-communication-dataset/LTE/50 mbps/32274CF-dell-latitude-D20211125T152400M046037.data
+/real-world-wireless-communication-dataset/LTE/50 mbps/32274CF-dell-latitude-D20211125T152400M046037.json
+/real-world-wireless-communication-dataset/reading_signaldata.py
+/real-world-wireless-communication-dataset/README.txt
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs6_30mbps/32274CA-015-D20211123T132300M011437.data
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs6_30mbps/32274CA-015-D20211123T132300M011437.json
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs6_30mbps/32274CA-015-D20211123T132400M058863.data
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs6_30mbps/32274CA-015-D20211123T132400M058863.json
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs6_30mbps/32274CA-015-D20211123T133000M028048.data
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs6_30mbps/32274CA-015-D20211123T133000M028048.json
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs7_50mbps/32274CA-015-D20211123T131300M012278.data
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs7_50mbps/32274CA-015-D20211123T131300M012278.json
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs7_50mbps/32274CA-015-D20211123T131400M050226.data
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs7_50mbps/32274CA-015-D20211123T131400M050226.json
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs7_50mbps/32274CA-015-D20211123T131500M053479.data
+/real-world-wireless-communication-dataset/Wi-Fi/802_11ax_mcs7_50mbps/32274CA-015-D20211123T131500M053479.json
+/real-world-wireless-communication-dataset.zip
