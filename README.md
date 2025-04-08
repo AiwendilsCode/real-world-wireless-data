@@ -1,3 +1,3 @@
-# Real world wireless data
+# Music genre classification
 
-Dataset: https://www.kaggle.com/datasets/siddss/real-world-wireless-communication-dataset/data
+Dataset: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/data
